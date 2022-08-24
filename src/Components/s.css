@@ -1,0 +1,53 @@
+.container {
+    width: 950px;
+    background-color: #DDDDDD;
+    margin: 0px auto;
+    padding: 10px;
+    border: solid 2px;
+}
+
+.topnav {
+    height: 150px;
+    background-color: #6AA74F;
+    margin: 10px;
+    border: solid 2px;
+}
+
+.sidenav {
+    height: 300px;
+    width: 200px;
+    background-color: #6FA7DB;
+    margin: 10px;
+    display: inline-block;
+    border: solid 2px;
+}
+
+.main {
+    height: 400px;
+    width: 710px;
+    background-color: #E06666;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    border: solid 2px;
+}
+
+.subcontent {
+    height: 255px;
+    width: 220px;
+    background-color: #FFD866;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: solid 2px;
+
+}
+
+.advertisement {
+    height: 109px;
+    width: 687px;
+    background-color: #B4A6D6;
+    margin-top: 8px;
+    margin-left: 10px;
+    border: solid 2px;
+}
